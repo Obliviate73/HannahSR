@@ -1,0 +1,2 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+13_HannahSR            	26.90     	35.05         	0.066     	4.17      	186.72  	588.93  	 168    
