@@ -1,0 +1,3 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+13_HannahSR         	26.90     	60.82         	0.060     	3.75      	190.92  	612.50  	 168    
+00_EFDN_baseline    	26.93     	25.02         	0.276     	16.70     	111.12  	663.26  	  65    
