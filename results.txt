@@ -1,2 +1,0 @@
-Model               	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
- 13_HannahSR         	34.80         	0.060     	3.75      	190.92  	996.81  	 168    
