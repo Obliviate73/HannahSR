@@ -1,5 +1,5 @@
 # HannahSR
-NTIRE 2025 ESR Competition entry
+
 ## Requirements
 `pip install -r requirements.txt`
 
