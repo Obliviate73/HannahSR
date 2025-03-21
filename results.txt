@@ -1,3 +1,0 @@
-Model               	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
-01_fudan            	35.51         	0.066     	4.17      	186.72  	970.40  	 168    
-13_HannahSR         	34.80         	0.060     	3.75      	190.92  	996.81  	 168    
